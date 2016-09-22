@@ -1,0 +1,35 @@
+* {
+  font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua",
+   Georgia, serif;
+}
+
+h1 {
+  font-size: 13pt;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 11pt;
+  font-weight: bold;
+  display: inline;
+  text-align: left;
+  float: left;
+}
+
+h3 {
+  font-size: 11pt;
+  font-weight: bold;
+  display: inline;
+  text-align: right;
+  float: right;
+}
+
+p {
+  font-size: 10pt;
+  clear: both;
+}
+
+#Header {
+  z-index: 1;
+  border-bottom: 1px solid black;
+}
