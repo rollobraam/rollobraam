@@ -16,14 +16,6 @@ h2 {
   float: left;
 }
 
-h3 {
-  font-size: 11pt;
-  font-weight: bold;
-  display: inline;
-  text-align: right;
-  float: right;
-}
-
 p {
   font-size: 10pt;
   clear: both;
@@ -32,4 +24,9 @@ p {
 #Header {
   z-index: 1;
   border-bottom: 1px solid black;
+}
+
+.dates {
+  text-align: right;
+  float: right;
 }
