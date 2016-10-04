@@ -3,6 +3,10 @@
    Georgia, serif;
 }
 
+body {
+  background-color: #888888;
+}
+
 h1 {
   font-size: 13pt;
   font-weight: bold;
@@ -24,6 +28,9 @@ p {
 #Content {
   margin: auto;
   max-width: 40em;
+  padding: 0.5em 1em 0.5em 1em;
+  background: #FFFFFF;
+  border: 1px solid black;
 }
 
 #Header {
