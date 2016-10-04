@@ -21,6 +21,11 @@ p {
   clear: both;
 }
 
+#Content {
+  margin: auto;
+  max-width: 40em;
+}
+
 #Header {
   z-index: 1;
   border-bottom: 1px solid black;
